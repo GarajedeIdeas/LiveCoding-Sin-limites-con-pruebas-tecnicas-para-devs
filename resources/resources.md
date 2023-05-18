@@ -2,7 +2,7 @@
 
 Diferentes tipos de recursos interesantes para preparar pruebas técnicas.
 
-## Plataformas
+## Plataformas
 
 - [LeetCode](https://leetcode.com/explore/)
 - [HackerRank](https://www.hackerrank.com/dashboard)
