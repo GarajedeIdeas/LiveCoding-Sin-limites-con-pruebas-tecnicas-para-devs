@@ -4,7 +4,7 @@ Evento de [Garaje Live Coding](https://www.youtube.com/@Garajedeideas) que tuvo 
 
 ## Recursos
 
-Aquí puedes encontrar la [grabación](https://www.youtube.com/@Garajedeideas/videos), [presentación](./resources/slides.pdf) y una [lista de recursos](./resources/resources.md) que te será muy útil para seguir preparándote para superar cualquier prueba técnica.
+Aquí puedes encontrar la [grabación](https://www.youtube.com/watch?v=6ah63xMZiDI), [presentación](./resources/slides.pdf) y una [lista de recursos](./resources/resources.md) que te será muy útil para seguir preparándote para superar cualquier prueba técnica.
 
 ## Contacto
 
